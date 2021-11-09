@@ -1,0 +1,11 @@
+.AdminLayout {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    padding: 30px;
+}
+
+@media only screen and (max-width: 769px) {
+    .AdminLayout {
+        grid-template-columns: 100%;
+    }
+}

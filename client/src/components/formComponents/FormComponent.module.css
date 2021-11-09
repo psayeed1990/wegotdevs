@@ -1,0 +1,9 @@
+#register {
+	padding: 4px;
+	background-image: url(/images/icons/people-formal.svg);
+	background-size: cover;
+	padding-bottom: 700px;
+}
+#registerContent {
+	display: block;
+}

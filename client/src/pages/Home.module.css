@@ -1,0 +1,33 @@
+.droppedFiles li {
+  color: #07f;
+  padding: 3px;
+  text-align: left;
+  font-weight: bold;
+}
+
+#drop {
+  padding: 20px;
+  padding-bottom: 900px;
+}
+
+.allService {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 50px;
+  background: #976af7;
+  margin-top: 0px;
+}
+.serviceBar {
+  padding: 4px;
+  color: #ffffff;
+  font-weight: 300;
+  text-transform: uppercase;
+  border: 10px solid #976af7;
+  border-bottom: 8px solid #e06cb4;
+  margin: 10px auto;
+  background: #f0cb70;
+  outline: 1px solid #f7946a;
+  width: 300px;
+  box-shadow: 0 0 8px 0px #6a7473;
+  border-radius: 10px;
+}

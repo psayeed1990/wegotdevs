@@ -1,0 +1,17 @@
+#login {
+	padding: 4px;
+	background-image: url(/images/icons/people.svg);
+	background-size: cover;
+	padding-bottom: 900px;
+}
+#loginContent {
+	display: block;
+}
+.forgotBtn {
+	margin-top: 0px;
+	padding: 15px 0;
+}
+.forgotBtn a {
+	color: #c1c1c1;
+	font-size: .85rem;
+}

@@ -1,0 +1,31 @@
+.logo {
+  background-color: #f7946a;
+  border: 5px solid #f7946a;
+  color: #233540;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px 0px;
+  box-shadow: 0 10px 16px -7px #1d3531;
+  width: 235px;
+  /* max-width: 235px; */
+  /* outline: 4px solid var(--primary); */
+  /* text-shadow: 2px 0 1px #400f0f; */
+}
+
+.logoLast {
+  background-color: #f0cb70;
+  color: var(--light);
+  padding: 0 5px;
+  margin-left: 8px;
+  /* border-radius: 30% 2px 2px 30%; */
+}
+.round {
+  /* border: 2px solid var(--primary); */
+  border-radius: 50%;
+}
+
+@media only screen and (max-width: 769px) {
+  .logo {
+    margin: 0 auto;
+  }
+}

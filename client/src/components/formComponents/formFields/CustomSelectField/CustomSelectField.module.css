@@ -1,0 +1,15 @@
+.selectList {
+	position: absolute;
+	
+}
+
+.selectList ul li {
+    background-color: white;
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+    padding: 7px 15px;
+    cursor: pointer;
+}
+.hidden {
+    display: none;
+}

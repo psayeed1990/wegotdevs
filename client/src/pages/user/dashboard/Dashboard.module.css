@@ -1,0 +1,14 @@
+.dashboard {
+    padding-bottom: 900px;
+}
+
+.dashboard .boldText {
+    color: var(--body-color);
+font-family: roboto;
+font-weight: 400;
+text-transform: uppercase;
+text-shadow: 0 0 2px #e2e3e3;
+width: max-content;
+padding: 5px 20px;
+margin: 2px auto;
+}
