@@ -33,6 +33,8 @@ const Home = () => {
             <h2 className={styles.serviceBar}>Digital Marketing</h2>
           </div>
         </div>
+
+        <h1 className={styles.mainHeading}>Ready to serve project manager</h1>
       </div>
     </WebLayout>
   );

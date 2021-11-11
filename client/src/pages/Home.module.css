@@ -31,3 +31,18 @@
   box-shadow: 0 0 8px 0px #6a7473;
   border-radius: 10px;
 }
+
+.mainHeading {
+  background-color: white;
+  padding: 40px 10px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  border-right: 26px dashed #e06cb4;
+  box-shadow: 0px 2px 1px #917ee5, inset 0px 12px 1px #f0cb70;
+  border-left: 200px dotted #66b1ed;
+  border-bottom: 10px solid #e06cb4;
+  margin: 0;
+  color: transparent;
+  text-shadow: 6px 9px 1px rgb(143, 142, 142);
+}

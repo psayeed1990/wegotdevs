@@ -6,7 +6,8 @@ const Logo = () => {
       <button className={styles.logo}>
         WE
         <span className={styles.logoLast}>
-          <span className={styles.round}>GOT</span>DEVS
+          <span className={styles.one}>GOT</span>
+          <span className={styles.two}>DEVS</span>
         </span>
       </button>
     </Link>
